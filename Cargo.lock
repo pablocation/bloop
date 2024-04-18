@@ -405,7 +405,7 @@ dependencies = [
 
 [[package]]
 name = "bleep"
-version = "0.6.3"
+version = "0.6.4"
 dependencies = [
  "anyhow",
  "async-stream",
@@ -514,7 +514,7 @@ dependencies = [
 
 [[package]]
 name = "bloop"
-version = "0.6.3"
+version = "0.6.4"
 dependencies = [
  "anyhow",
  "bleep",
